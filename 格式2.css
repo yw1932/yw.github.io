@@ -39,7 +39,7 @@
     justify-content: center; /* Change to center */
     text-align: center;
     margin-bottom: 20px;
-    width: 100%; /* Remove width */
+    width: 50%; /* Remove width */
     height: 500px;
     position: relative; /* Add position */
 }
