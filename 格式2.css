@@ -45,7 +45,7 @@
     position: relative; /* Add position */
 }
 
-.map img {
+.img {
     max-width: 100%; /* Make sure image doesn't overflow */
     max-height: 100%; /* Make sure image doesn't overflow */
     position: absolute; /* Add position */
