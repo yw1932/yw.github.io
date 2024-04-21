@@ -48,7 +48,5 @@
     position: absolute; /* Add position */
     top: 50%; /* Add top */
     left: 50%; /* Add left */
-    transform: translate(-50%, -50%); /* Adjust to center */
 }
 
-}
