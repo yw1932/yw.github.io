@@ -1,0 +1,30 @@
+.heading {
+    color:black;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 35px;
+}
+.menu {
+    color:black;
+    font: size 30px;
+    text-align:left;
+    padding-left: 127px;
+    padding-right: 150px;
+}
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.image-container img {
+    width: 26%;
+    height: auto;
+    max-width:100%;
+    object-fit: cover;
+    aspect-ratio: 3/4;
+}
